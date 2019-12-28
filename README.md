@@ -4,13 +4,13 @@
 1. На текущий момент я прохожу задания из материалов курса CS231N, это Стенфордский курс по компьютерному зрению.
    Сcылка на работу: https://github.com/roman-4erkasov/cs231n-2019spring
 2. Работы по обработке естественных языков:
-  2.1 Веб-сервис проводящий сентимент-анализ отзывов + код для парсинга сайтов с отзывами: 
+    - Веб-сервис проводящий сентимент-анализ отзывов + код для парсинга сайтов с отзывами: 
       https://github.com/roman-4erkasov/ds-yandex-06-project
-  2.2 NER. Поиск именованых сущностей в твитах: 
+    - NER. Поиск именованых сущностей в твитах: 
       https://github.com/roman-4erkasov/nlp-coursera/blob/master/work02_ner/week2-NER.ipynb
-  2.3 Дедубликация. Поиск близких по смыслу вопросов на stackoverflow:
+    - Дедубликация. Поиск близких по смыслу вопросов на stackoverflow:
       https://github.com/roman-4erkasov/nlp-coursera/blob/master/work03_deduplication/week3-Embeddings.ipynb
-  2.4 Реализация архитектуры seq2seq, которая парсит арифметические выражения и выдает ответ:
+    - Реализация архитектуры seq2seq, которая парсит арифметические выражения и выдает ответ:
       https://github.com/roman-4erkasov/nlp-coursera/blob/master/work04_seq2seq/week4-seq2seq.ipynb
 3. Классический ML и статистика.
   
