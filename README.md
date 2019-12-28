@@ -8,7 +8,7 @@
    https://github.com/roman-4erkasov/ds-yandex-06-project
  - NER. Поиск именованых сущностей в твитах: 
    https://github.com/roman-4erkasov/nlp-coursera/blob/master/work02_ner/week2-NER.ipynb
- - Дедеубликация. Поиск близких по смыслу вопросов на stackoverflow:
+ - Дедубликация. Поиск близких по смыслу вопросов на stackoverflow:
    https://github.com/roman-4erkasov/nlp-coursera/blob/master/work03_deduplication/week3-Embeddings.ipynb
    
 
