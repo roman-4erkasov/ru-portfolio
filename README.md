@@ -14,12 +14,7 @@
       https://github.com/roman-4erkasov/nlp-coursera/blob/master/work04_seq2seq/week4-seq2seq.ipynb
 3. Классический ML и статистика.
     - Обнаружение статистически значимых отличий в уровнях экспрессии генов больных раком: https://github.com/roman-4erkasov/ds-yandex-04-statistics/blob/master/projects/prj02_bioinformatics/bioinformatics.ipynb
-    - Анализ времянного ряда: https://github.com/roman-4erkasov/ds-yandex-05-real/blob/master/week02test02_timeseries/timeseries.ipynb
+    - Анализ временного ряда: https://github.com/roman-4erkasov/ds-yandex-05-real/blob/master/week02test02_timeseries/timeseries.ipynb
     - Анализ данных в задаче кредитного скоринга: https://github.com/roman-4erkasov/ds-yandex-04-statistics/blob/master/projects/prj01_scoring/Scoring.ipynb
     - Множественная проверка гипотез (плохо оформлена): https://github.com/roman-4erkasov/ds-yandex-04-statistics/blob/master/week03test02/stat.multiple_hypothesis_testing.ipynb
   
-
-## Список работ
-### 1. CV
-### 2. NLP
-### 
