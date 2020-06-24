@@ -1,6 +1,7 @@
 # Портфолио
 
-## Наиболее интересные работы
+## 1. AI/DS
+### 1.2 Наиболее интересные работы
 1. Работы по обработке естественных языков:
     - Веб-сервис, проводящий сентимент-анализ отзывов, + код для парсинга сайтов с отзывами: 
       https://github.com/roman-4erkasov/ds-yandex-06-project
@@ -19,6 +20,10 @@
     - рассчет backpropagation: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment1/cs231n_01.pdf
     - двуслойная нейронная сеть по классификации иизображений: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment1/two_layer_net.ipynb
 
-## Сертификаты
+### 1.3 Сертификаты
 
-## Полный список работ
+### 1.4 Полный список работ
+
+## 2. Programming
+ - Алгоритмы: https://github.com/roman-4erkasov/coursera-data-structures-algorithms
+
