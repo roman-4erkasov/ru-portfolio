@@ -11,6 +11,7 @@
       https://github.com/roman-4erkasov/nlp-coursera/blob/master/work03_deduplication/week3-Embeddings.ipynb
     - Реализация архитектуры seq2seq, которая парсит арифметические выражения и выдает ответ:
       https://github.com/roman-4erkasov/nlp-coursera/blob/master/work04_seq2seq/week4-seq2seq.ipynb
+
 1.2.2 Классический ML и статистика.
     - Обнаружение статистически значимых отличий в уровнях экспрессии генов больных раком: https://github.com/roman-4erkasov/ds-yandex-04-statistics/blob/master/projects/prj02_bioinformatics/bioinformatics.ipynb
     - Анализ временного ряда: https://github.com/roman-4erkasov/ds-yandex-05-real/blob/master/week02test02_timeseries/timeseries.ipynb
