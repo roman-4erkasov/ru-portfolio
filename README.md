@@ -3,13 +3,13 @@
 ## 1. AI/DS
 ### Наиболее интересные работы
 - Работы по обработке естественных языков:  
- - Веб-сервис, проводящий сентимент-анализ отзывов, + код для парсинга сайтов с отзывами:   
+  - Веб-сервис, проводящий сентимент-анализ отзывов, + код для парсинга сайтов с отзывами:   
       https://github.com/roman-4erkasov/ds-yandex-06-project  
- - NER. Поиск именованых сущностей в твитах: 
+  - NER. Поиск именованых сущностей в твитах: 
       https://github.com/roman-4erkasov/nlp-coursera/blob/master/work02_ner/week2-NER.ipynb. 
- - Дедубликация. Поиск близких по смыслу вопросов на stackoverflow:  
+  - Дедубликация. Поиск близких по смыслу вопросов на stackoverflow:  
       https://github.com/roman-4erkasov/nlp-coursera/blob/master/work03_deduplication/week3-Embeddings.ipynb  
- - Реализация архитектуры seq2seq, которая парсит арифметические выражения и выдает ответ:  
+  - Реализация архитектуры seq2seq, которая парсит арифметические выражения и выдает ответ:  
       https://github.com/roman-4erkasov/nlp-coursera/blob/master/work04_seq2seq/week4-seq2seq.ipynb  
 
 - Классический ML и статистика.  
