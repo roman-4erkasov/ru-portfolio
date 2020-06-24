@@ -3,9 +3,9 @@
 ## 1. AI/DS
 ### 1.2 Наиболее интересные работы
 1.2.1 Работы по обработке естественных языков:  
-    - Веб-сервис, проводящий сентимент-анализ отзывов, + код для парсинга сайтов с отзывами:   
+- Веб-сервис, проводящий сентимент-анализ отзывов, + код для парсинга сайтов с отзывами:   
       https://github.com/roman-4erkasov/ds-yandex-06-project  
-    - NER. Поиск именованых сущностей в твитах: 
+- NER. Поиск именованых сущностей в твитах: 
       https://github.com/roman-4erkasov/nlp-coursera/blob/master/work02_ner/week2-NER.ipynb. 
     - Дедубликация. Поиск близких по смыслу вопросов на stackoverflow:  
       https://github.com/roman-4erkasov/nlp-coursera/blob/master/work03_deduplication/week3-Embeddings.ipynb  
