@@ -39,7 +39,7 @@
 
 ### 1.2 Programming
 - Алгоритмы на python: https://github.com/roman-4erkasov/coursera-data-structures-algorithms  
-- Алгоритмы на C++: https://github.com/roman-4erkasov/algoritms-cpp/tree/master/prj01_huffman_file_compressing
+- Алгоритмы на C++ (Из наиболее интересного утилита-архиватор и парсер сложных арифметических выражений): https://github.com/roman-4erkasov/algoritms-cpp/
 
 
 
