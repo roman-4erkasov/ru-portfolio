@@ -41,7 +41,7 @@
 
 ### 1.2 Programming
 - Алгоритмы на python: https://github.com/roman-4erkasov/coursera-data-structures-algorithms  
-- Алгоритмы на C++ (Из наиболее интересного: утилита-архиватор и парсер сложных арифметических выражений): https://github.com/roman-4erkasov/algoritms-cpp/
+- Алгоритмы на C++ (Из наиболее интересного: утилита-архиватор и парсер составных арифметических выражений): https://github.com/roman-4erkasov/algoritms-cpp/
 
 
 
