@@ -36,6 +36,8 @@
   - Assingment3 (In plan)
   
 - В планах пройти "How to win in Kaggle data science competiton"
+- В планах CS224N
+- В планах CS224W
 
 ### 1.2 Programming
 - Алгоритмы на python: https://github.com/roman-4erkasov/coursera-data-structures-algorithms  
