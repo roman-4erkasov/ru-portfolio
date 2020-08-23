@@ -20,9 +20,22 @@
   - Множественная проверка гипотез (плохо оформлена): https://github.com/roman-4erkasov/ds-yandex-04-statistics/blob/master/week03test02/stat.multiple_hypothesis_testing.ipynb  
 
 - Компьютерное зрение. На текущий момент я прохожу задания из материалов курса CS231N, это Стенфордский курс по компьютерному зрению. В дальнейшем я пополню раздел по компьютерному зрению более интересными работами:  
-  - рассчет backpropagation: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment1/cs231n_01.pdf  
-  - двуслойная нейронная сеть по классификации иизображений: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment1/two_layer_net.ipynb  
-- [WIP] How to win in Kaggle data science competiton
+  - Assignment1 (Done) :
+    - рассчет backpropagation: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment1/cs231n_01.pdf  
+    - Реализация 2-слонного нейронной сети: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment1/cs231n/classifiers/neural_net.py
+    - Демо по классификации иизображений: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment1/two_layer_net.ipynb 
+  - Assignment2 (WIP):
+    - Реализация семейства методов градиентного спуска: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment2/cs231n/optim.py
+    - Реализация forthprop backprop для различных слоёв: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment2/cs231n/layers.py
+    - Реализация класса для построенния многослойной сети: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment2/cs231n/classifiers/fc_net.py
+    - Рассчет обратного распространения для Batchnorm: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment2/cs231n_02_batchnorm.pdf
+    - Демо Batchnorm: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment2/BatchNormalization.ipynb
+    - Демо Inverted Dropout: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment2/Dropout.ipynb
+    - Рассчет CNN (WIP)
+    - Реализация CNN (WIP)
+  - Assingment3 (In plan)
+  
+- В планах пройти "How to win in Kaggle data science competiton"
 
 ### 1.2 Programming
 - Алгоритмы на python: https://github.com/roman-4erkasov/coursera-data-structures-algorithms  
