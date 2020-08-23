@@ -8,7 +8,7 @@
 - В планах пройти https://www.coursera.org/specializations/c-plus-plus-modern-development
 
 ### 1.2 AI/DS
-- Работы по обработке естественных языков:  
+- <b>Обработка естественных языков:</b>  
   - Веб-сервис, проводящий сентимент-анализ отзывов, + код для парсинга сайтов с отзывами (см. readme по ссылке далее): https://github.com/roman-4erkasov/ds-yandex-06-project  
   - NER. Поиск именованых сущностей в твитах:  https://github.com/roman-4erkasov/nlp-coursera/blob/master/work02_ner/week2-NER.ipynb. 
   - Дедубликация. Поиск близких по смыслу вопросов на stackoverflow: https://github.com/roman-4erkasov/nlp-coursera/blob/master/work03_deduplication/week3-Embeddings.ipynb  
