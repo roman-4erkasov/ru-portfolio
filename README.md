@@ -1,7 +1,13 @@
 # Портфолио
 
 ## 1. Наиболее интересные работы
-### 1.1 AI/DS
+
+### 1.1 Programming
+- Алгоритмы и структуры данных (WIP): https://github.com/roman-4erkasov/coursera-data-structures-algorithms  
+- Алгоритмы на C++ (Из наиболее интересного: утилита-архиватор и парсер составных арифметических выражений): https://github.com/roman-4erkasov/algoritms-cpp/
+- В планах пройти https://www.coursera.org/specializations/c-plus-plus-modern-development
+
+### 1.2 AI/DS
 - Работы по обработке естественных языков:  
   - Веб-сервис, проводящий сентимент-анализ отзывов, + код для парсинга сайтов с отзывами:   
       https://github.com/roman-4erkasov/ds-yandex-06-project  
@@ -38,10 +44,6 @@
   
 - В планах CS224W
 
-### 1.2 Programming
-- Алгоритмы и структуры данных (WIP): https://github.com/roman-4erkasov/coursera-data-structures-algorithms  
-- Алгоритмы на C++ (Из наиболее интересного: утилита-архиватор и парсер составных арифметических выражений): https://github.com/roman-4erkasov/algoritms-cpp/
-- В планах пройти https://www.coursera.org/specializations/c-plus-plus-modern-development
 
 
 ## 2 Сертификаты
