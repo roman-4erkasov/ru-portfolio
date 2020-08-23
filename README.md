@@ -22,7 +22,7 @@
 - Компьютерное зрение. На текущий момент я прохожу задания из материалов курса CS231N, это Стенфордский курс по компьютерному зрению. В дальнейшем я пополню раздел по компьютерному зрению более интересными работами:  
   - Assignment1 (Done) :
     - рассчет backpropagation: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment1/cs231n_01.pdf  
-    - Реализация 2-слонного нейронной сети: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment1/cs231n/classifiers/neural_net.py
+    - Реализация 2-слойной нейронной сети: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment1/cs231n/classifiers/neural_net.py
     - Демо по классификации иизображений: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment1/two_layer_net.ipynb 
   - Assignment2 (WIP):
     - Реализация семейства методов градиентного спуска (Adam, RMSProp, etc): https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment2/cs231n/optim.py
