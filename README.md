@@ -40,7 +40,7 @@
 - В планах CS224W
 
 ### 1.2 Programming
-- Алгоритмы на python (WIP): https://github.com/roman-4erkasov/coursera-data-structures-algorithms  
+- Алгоритмы и структуры данных (WIP): https://github.com/roman-4erkasov/coursera-data-structures-algorithms  
 - Алгоритмы на C++ (Из наиболее интересного: утилита-архиватор и парсер составных арифметических выражений): https://github.com/roman-4erkasov/algoritms-cpp/
 - В планах пройти https://www.coursera.org/specializations/c-plus-plus-modern-development
 
