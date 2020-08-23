@@ -26,7 +26,7 @@
     - Демо по классификации иизображений: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment1/two_layer_net.ipynb 
   - Assignment2 (WIP):
     - Реализация семейства методов градиентного спуска: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment2/cs231n/optim.py
-    - Реализация forthprop backprop для различных слоёв: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment2/cs231n/layers.py
+    - Реализация forward prop и back prop для различных слоёв: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment2/cs231n/layers.py
     - Реализация класса для построенния многослойной сети: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment2/cs231n/classifiers/fc_net.py
     - Рассчет обратного распространения для Batchnorm: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment2/cs231n_02_batchnorm.pdf
     - Демо Batchnorm: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment2/BatchNormalization.ipynb
