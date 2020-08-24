@@ -3,7 +3,7 @@
 ## 1. Наиболее интересные работы
 
 ### 1.1 Programming
-- Алгоритмы и структуры данных (WIP): https://github.com/roman-4erkasov/coursera-data-structures-algorithms  
+- Алгоритмы и структуры данных - WIP: https://github.com/roman-4erkasov/coursera-data-structures-algorithms  
 - Алгоритмы на C++ (Из наиболее интересного: утилита архиватор файлов и парсер составных арифметических выражений): https://github.com/roman-4erkasov/algoritms-cpp/
 - В планах пройти https://www.coursera.org/specializations/c-plus-plus-modern-development
 
