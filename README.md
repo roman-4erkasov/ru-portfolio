@@ -31,7 +31,7 @@
     - Реализация семейства методов градиентного спуска (Adam, RMSProp, etc): https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment2/cs231n/optim.py
     - Реализация forward prop и back prop для различных слоёв: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment2/cs231n/layers.py
     - Реализация класса для построенния многослойной сети: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment2/cs231n/classifiers/fc_net.py
-    - Рассчет обратного распространения для Batchnorm: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment2/cs231n_02_batchnorm.pdf
+    - Расчет ускоренного Batchnorm: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment2/cs231n_02_batchnorm.pdf
     - Демо Batchnorm: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment2/BatchNormalization.ipynb
     - Демо Inverted Dropout: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment2/Dropout.ipynb
     - Рассчет CNN (WIP)
