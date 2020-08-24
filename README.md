@@ -23,7 +23,7 @@
   - Анализ данных в задаче кредитного скоринга: https://github.com/roman-4erkasov/ds-yandex-04-statistics/blob/master/projects/prj01_scoring/Scoring.ipynb  
   - Множественная проверка гипотез (плохо оформлена): https://github.com/roman-4erkasov/ds-yandex-04-statistics/blob/master/week03test02/stat.multiple_hypothesis_testing.ipynb  
   - В планах пройти "How to win in Kaggle data science competiton" и Data Science JHU
-- <b>Компьютерное зрение CS231N (WIP):</b>   
+- <b>Компьютерное зрение:</b>   
   - CS231N (Стэнфордский курс по компьютерному зрению) - прохожу на текущий момент:
     - Assignment1 (Done) :
       - рассчет backpropagation: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment1/cs231n_01.pdf  
