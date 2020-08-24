@@ -23,7 +23,7 @@
   - Множественная проверка гипотез (плохо оформлена): https://github.com/roman-4erkasov/ds-yandex-04-statistics/blob/master/week03test02/stat.multiple_hypothesis_testing.ipynb  
   - В планах пройти "How to win in Kaggle data science competiton" и Data Science JHU
 - <b>Компьютерное зрение:</b>   
-  - CS231N (Стэнфордский курс по компьютерному зрению) - прохожу на текущий момент:
+  - CS231N (Стэнфордский курс по компьютерному зрению) - WIP:
     - Assignment1 (Done) :
       - рассчет backpropagation: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment1/cs231n_01.pdf  
       - Реализация 2-слойной нейронной сети: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment1/cs231n/classifiers/neural_net.py
