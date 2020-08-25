@@ -6,7 +6,7 @@
 - Алгоритмы и структуры данных - WIP: https://github.com/roman-4erkasov/coursera-data-structures-algorithms  
 - Алгоритмы на C++ (Из наиболее интересного: утилита архиватор файлов и парсер составных арифметических выражений): https://github.com/roman-4erkasov/algoritms-cpp/
 - В планах пройти https://www.coursera.org/specializations/c-plus-plus-modern-development
-
+ 
 ### 1.2 AI/DS
 - <b>Обработка естественных языков:</b>  
   - Веб-сервис, проводящий <b>сентимент-анализ</b> отзывов, + код для <b>парсинга сайтов</b> с отзывами: https://github.com/roman-4erkasov/ds-yandex-06-project  
