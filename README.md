@@ -41,7 +41,7 @@
   - В планах Udacity Nanodegree (Computer Vision)
 
 - <b>Machine Learning with Graphs:</b>
- - Пока опыта работы в этой области нету, в планах Стэнфордсикй курс CS224W (Machine Learning with Graphs)
+  - Пока опыта работы в этой области нету, в планах Стэнфордсикй курс CS224W (Machine Learning with Graphs)
 
 
 
