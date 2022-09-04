@@ -25,6 +25,10 @@
   - Решение задачаи вида Learn2rank: https://github.com/roman-4erkasov/ds-misc/blob/main/mailru_l2r_best_solution.ipynb
   - В планах пройти "How to win in Kaggle data science competiton" и Data Science JHU
 - <b>Компьютерное зрение:</b>   
+  - Проекты по Computer Vision: https://github.com/roman-4erkasov/cv . Из интересного это:
+    - (WIP) Заготовки к OCR-пайплайну - модель по сегментации номеров автомобиля и модель по распознаванию автомобильных номеров.
+    - Модель по детекции и сегментации (instance segmentation) пешеходов на основе MaskRCNN (Detectron2).
+    - Сегментация замазанных участков спутниковых снимков.
   - CS231N (Стэнфордский курс по компьютерному зрению) - WIP:
     - Assignment1 (Done) :
       - рассчет backpropagation: https://github.com/roman-4erkasov/cs231n-2019spring/blob/master/assignment1/cs231n_01.pdf  
