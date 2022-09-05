@@ -10,6 +10,7 @@
  
 ### 1.2 AI/DS
 - <b>Обработка естественных языков:</b>  
+  - NER на предобученном Bert: https://github.com/roman-4erkasov/nlp_work/blob/main/bert_ner/bert_ner.ipynb
   - Веб-сервис, проводящий <b>сентимент-анализ</b> отзывов, + код для <b>парсинга сайтов</b> с отзывами: https://github.com/roman-4erkasov/ds-yandex-06-project  
   - NER. Поиск именованых сущностей в твитах:  https://github.com/roman-4erkasov/nlp-coursera/blob/master/work02_ner/week2-NER.ipynb. 
   - Дедубликация. Поиск близких по смыслу вопросов на stackoverflow: https://github.com/roman-4erkasov/nlp-coursera/blob/master/work03_deduplication/week3-Embeddings.ipynb  
