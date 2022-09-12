@@ -6,7 +6,6 @@
 - Курс по алгоритмам от Mail.ru (Python, C++, Go): https://github.com/roman-4erkasov/made-algo
 - Алгоритмы на C++ (Из наиболее интересного: утилита архиватор файлов и парсер составных арифметических выражений): https://github.com/roman-4erkasov/algoritms-cpp/
 - Алгоритмы и структуры данных (если он вернется(( ): https://github.com/roman-4erkasov/coursera-data-structures-algorithms  
-- В планах пройти пояса С++: https://www.coursera.org/specializations/c-plus-plus-modern-development
  
 ### 1.2 AI/DS
 - <b>Обработка естественных языков:</b>  
@@ -47,15 +46,9 @@
       - Рассчет CNN (WIP)
       - Реализация CNN (WIP)
     - Assingment3 (In plan)
-  - В планах Udacity Nanodegree (Computer Vision)
 
 - <b>Machine Learning with Graphs:</b>
   - Курс по Graph ML: https://github.com/roman-4erkasov/made-graph-ml
   - курс по Graph DL: https://github.com/roman-4erkasov/made-graph-dl
-  - В планах Стэнфордсикй курс CS224W (Machine Learning with Graphs)
 
 
-
-## 2 Сертификаты
-
-## 3 Полный список работ
