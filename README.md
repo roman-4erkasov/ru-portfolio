@@ -49,6 +49,7 @@
 
 - <b>Machine Learning with Graphs:</b>
   - Курс по Graph ML: https://github.com/roman-4erkasov/made-graph-ml
+  - курс по Graph DL: https://github.com/roman-4erkasov/made-graph-dl
   - В планах Стэнфордсикй курс CS224W (Machine Learning with Graphs)
 
 
