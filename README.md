@@ -5,7 +5,7 @@
 ### 1.1 Programming
 - Курс по алгоритмам от Mail.ru (Python, C++, Go): https://github.com/roman-4erkasov/made-algo
 - Алгоритмы на C++ (Из наиболее интересного: утилита архиватор файлов и парсер составных арифметических выражений): https://github.com/roman-4erkasov/algoritms-cpp/
-- Алгоритмы и структуры данных (к сожалению курса больше нет, было в планах к нему вернуться): https://github.com/roman-4erkasov/coursera-data-structures-algorithms  
+- Алгоритмы и структуры данных (если он вернется(( ): https://github.com/roman-4erkasov/coursera-data-structures-algorithms  
 - В планах пройти пояса С++: https://www.coursera.org/specializations/c-plus-plus-modern-development
  
 ### 1.2 AI/DS
